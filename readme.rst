@@ -1,8 +1,7 @@
-#####
 UAS Pemrograman Web 2
 Nama: Zul Ham Fahlevi
 NIM:	41520010167
-#####
+
 
 ###################
 What is CodeIgniter
