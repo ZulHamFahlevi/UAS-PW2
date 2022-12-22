@@ -1,5 +1,5 @@
-UAS Pemrograman Web 2 __
-Nama: Zul Ham Fahlevi __
+UAS Pemrograman Web 2 <br/>
+Nama: Zul Ham Fahlevi <br/>
 NIM:	41520010167
 
 
